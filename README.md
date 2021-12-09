@@ -2,3 +2,13 @@
 The repository contains all the notebooks and datasets that we are going to use during the course.
 
 Open this repository in <a href="https://mybinder.org/v2/gh/alihussainia/DataAnalysis-icodeguru-Batch2/master?urlpath=lab">Binder</a> 
+
+## Course Content
+### Chapter 01: [Data Manipulation with pandas](https://github.com/YousraMashkoor/DataAnalysis-icodeguru-Batch2/blob/master/DA2_chapter1.ipynb)
+* Lecture 01 - Inspecting Dataframes  
+* Lecture 02 - Some basic methods  
+* Lecture 03 - Subsetting Columns
+* Lecture 04 - Summary Statistics
+* Lecture 05 - Slicing and Indexing
+* Lecture 06 - Selection with loc and iloc
+* Lecture 07 - Groupby and Pivot Tables
