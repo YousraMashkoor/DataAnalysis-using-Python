@@ -16,3 +16,5 @@ Open this repository in <a href="https://mybinder.org/v2/gh/alihussainia/DataAna
 ### Chapter 02: [Merging Dataframes with pandas](https://github.com/YousraMashkoor/DataAnalysis-icodeguru-Batch2/blob/master/DA2_chapter2.ipynb)
 * Lecture 01 - Importing Multiple Files 
 * Lecture 02 - Indexing and Reindexing
+* Lecture 03 - Concatinating and Appending Data
+* Lecture 04 - Joining Tables
