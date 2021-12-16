@@ -18,3 +18,4 @@ Open this repository in <a href="https://mybinder.org/v2/gh/alihussainia/DataAna
 * Lecture 02 - Indexing and Reindexing
 * Lecture 03 - Concatinating and Appending Data
 * Lecture 04 - Joining Tables
+* Lecture 05 - Merging Dataframes
