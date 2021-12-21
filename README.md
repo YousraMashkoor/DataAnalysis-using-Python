@@ -19,3 +19,8 @@ Open this repository in <a href="https://mybinder.org/v2/gh/alihussainia/DataAna
 * Lecture 03 - Concatinating and Appending Data
 * Lecture 04 - Joining Tables
 * Lecture 05 - Merging Dataframes
+
+### Chapter 03: [Data Visualization](https://github.com/YousraMashkoor/DataAnalysis-icodeguru-Batch2/blob/master/DA2_chapter3.ipynb)
+* Lecture 01 - Getting started with Matplotlib
+* Lecture 02 - Scatter Plot (with pandas, matplotlib and seaborn)
+* Lecture 03 - Line Plot (with pandas, matplotlib and seaborn)
