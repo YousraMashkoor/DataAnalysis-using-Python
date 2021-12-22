@@ -22,5 +22,6 @@ Open this repository in <a href="https://mybinder.org/v2/gh/alihussainia/DataAna
 
 ### Chapter 03: [Data Visualization](https://github.com/YousraMashkoor/DataAnalysis-icodeguru-Batch2/blob/master/DA2_chapter3.ipynb)
 * Lecture 01 - Getting started with Matplotlib
-* Lecture 02 - Scatter Plot (with pandas, matplotlib and seaborn)
-* Lecture 03 - Line Plot (with pandas, matplotlib and seaborn)
+* Lecture 02 - Matplotlib Interface
+* Lecture 03 - Scatter Plot (with pandas, matplotlib and seaborn)
+* Lecture 04 - Line Plot (with pandas, matplotlib and seaborn)
