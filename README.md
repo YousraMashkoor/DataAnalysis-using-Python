@@ -30,3 +30,7 @@ Open this repository in <a href="https://mybinder.org/v2/gh/alihussainia/DataAna
 * Lecture 07 - Histograms (with pandas, matplotlib and seaborn)
 * Lecture 08 - Line Plots (with pandas, matplotlib and seaborn)
 * Lecture 09 - Bar Plots (with pandas, matplotlib and seaborn)
+
+### Chapter 04: [Data Cleaning and Preparation](https://github.com/YousraMashkoor/DataAnalysis-icodeguru-Batch2/blob/master/DA2_chapter4.ipynb)
+* Lecture 01 - Handling Missing Data
+
