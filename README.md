@@ -33,4 +33,8 @@ Open this repository in <a href="https://mybinder.org/v2/gh/alihussainia/DataAna
 
 ### Chapter 04: [Data Cleaning and Preparation](https://github.com/YousraMashkoor/DataAnalysis-icodeguru-Batch2/blob/master/DA2_chapter4.ipynb)
 * Lecture 01 - Handling Missing Data
+* Lecture 02 - Visualizing Missing Data
+* Lecture 03 - Deleting Missing Data
+* Lecture 04 - Interpolating Missing Data
+* Lecture 05 - Removing Duplicate Values
 
