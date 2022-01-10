@@ -38,4 +38,6 @@ Open this repository in <a href="https://mybinder.org/v2/gh/alihussainia/DataAna
 * Lecture 04 - Interpolating Missing Data
 * Lecture 05 - Removing Duplicate Values
 * Lecture 06 - Parsing Dates
+* Lecture 07 - Regular Expressions
+* Lecture 08 - Type Conversions
 
