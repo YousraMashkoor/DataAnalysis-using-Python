@@ -47,4 +47,5 @@ Open this repository in <a href="https://mybinder.org/v2/gh/alihussainia/DataAna
 * Lecture 03 - Independent/Dependent Events
 * Lecture 04 - Laws of Probability
 * Lecture 05 - Conditional Probability: Practice
-* Lecture 06 - Bayes Theorem
+* Lecture 06 - Law of Total Probability
+* Lecture 07 - Bayes Theorem
