@@ -43,9 +43,15 @@ Open this repository in <a href="https://mybinder.org/v2/gh/alihussainia/DataAna
 
 ### Chapter 05: [Introduction to Probability](https://github.com/YousraMashkoor/DataAnalysis-icodeguru-Batch2/blob/master/DA2_chapter5.ipynb)
 * Lecture 01 - Sets and Events
-* Lecture 02 - Mutually/ Non Mutually Exclusive Events
+* Lecture 02 - Mutually/Non Mutually Exclusive Events
 * Lecture 03 - Independent/Dependent Events
 * Lecture 04 - Laws of Probability
 * Lecture 05 - Conditional Probability: Practice
 * Lecture 06 - Law of Total Probability
 * Lecture 07 - Bayes Theorem
+
+### Chapter 06: [Statistical Thinking](https://github.com/YousraMashkoor/DataAnalysis-icodeguru-Batch2/blob/master/DA2_chapter6.ipynb)
+* Lecture 01 - Descriptive Statistics
+* Lecture 02 - Measure of Variation
+* Lecture 03 - Range
+* Lecture 04 - Standard Deviation
