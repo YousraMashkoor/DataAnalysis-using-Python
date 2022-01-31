@@ -55,3 +55,6 @@ Open this repository in <a href="https://mybinder.org/v2/gh/alihussainia/DataAna
 * Lecture 02 - Measure of Variation
 * Lecture 03 - Range
 * Lecture 04 - Standard Deviation
+* Lecture 05 - Percentile
+* Lecture 06 - Boxplot
+* Lecture 07 - Skewness
