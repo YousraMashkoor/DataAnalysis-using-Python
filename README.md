@@ -58,3 +58,5 @@ Open this repository in <a href="https://mybinder.org/v2/gh/alihussainia/DataAna
 * Lecture 05 - Percentile
 * Lecture 06 - Boxplot
 * Lecture 07 - Skewness
+* Lecture 08 - Inferential Statistics
+* Lecture 09 - Density Plot
