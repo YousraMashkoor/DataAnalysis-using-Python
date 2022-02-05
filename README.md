@@ -1,7 +1,7 @@
 # Data Analysis Using Python 
 The repository contains all the notebooks and datasets that we are going to use during the course.
 
-Open this repository in <a href="https://mybinder.org/v2/gh/alihussainia/DataAnalysis-icodeguru-Batch2/master?urlpath=lab">Binder</a> 
+Open this repository in [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/alihussainia/DataAnalysis-icodeguru-Batch2/master?urlpath=lab)
 
 ## Course Content
 ### Chapter 01: [Data Manipulation with pandas](https://github.com/YousraMashkoor/DataAnalysis-icodeguru-Batch2/blob/master/DA2_chapter1.ipynb)
@@ -61,3 +61,5 @@ Open this repository in <a href="https://mybinder.org/v2/gh/alihussainia/DataAna
 * Lecture 08 - Inferential Statistics
 * Lecture 09 - Density Plot
 * Lecture 10 - Srandard Normal Distribution
+* Lecture 11 - Central Limit Theorem
+* Lecture 12 - Hypothesis Testing
