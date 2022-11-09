@@ -63,3 +63,6 @@ Open this repository in [![Binder](https://mybinder.org/badge_logo.svg)](https:/
 * Lecture 10 - Srandard Normal Distribution
 * Lecture 11 - Central Limit Theorem
 * Lecture 12 - Hypothesis Testing
+
+Enroll here to access the complete certified course:
+https://10pearlsuniversity.org/courses/data-analysis-using-python/ 
